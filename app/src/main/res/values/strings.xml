@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestAndroidSocket</string>
+    <string name="button_text">Send</string>
+</resources>
